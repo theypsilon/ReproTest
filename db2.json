@@ -6,8 +6,6 @@
         "MiSTer": {
             "delete": [],
             "hash": "e82a5f13cf9561f5db31e6b630e6d323",
-            "path": "system",
-            "reboot": true,
             "size": 955852,
             "url": "https://raw.githubusercontent.com/MiSTer-devel/Main_MiSTer/master/releases/MiSTer_20210917"
         },
