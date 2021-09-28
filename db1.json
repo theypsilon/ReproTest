@@ -17,9 +17,9 @@
     "time": "2021/08/13 21:35:02",
     "linux": {
         "delete": [],
-        "hash": "d3b619c54c4727ab618bf108013f79d9",
-        "size": 81920,
-        "url": "https://raw.githubusercontent.com/MiSTer-devel/SD-Installer-Win64_MiSTer/master/release_20210711.rar",
-        "version": "210711"
+        "hash": "6196e02a4231edea18e90c611973bf7b",
+        "size": 83200,
+        "url": "https://raw.githubusercontent.com/MiSTer-devel/SD-Installer-Win64_MiSTer/master/release_20210906.7z",
+        "version": "210906"
     }
 }
